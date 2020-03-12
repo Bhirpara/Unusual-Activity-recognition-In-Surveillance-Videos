@@ -1,0 +1,13 @@
+Read me…
+
+We propose a deep learning technique for anomaly detection in video surveillance cameras. The proposed method has been evaluated in the 5 different datasets such as UCF, BOSS, Shanghai, Avenue and Behave. 
+We experiment our model on various deep-learning techniques such as c3d, vgg and resnet50. We used neural network based solution for the  problem. 
+
+Datasets:
+
+Shanghai: https://svip-lab.github.io/dataset/campus_dataset.html
+Avenue: www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
+Boss: http://velastin.dynu.com/videodatasets/BOSSdata/whole_dataset.html
+Behave: http://groups.inf.ed.ac.uk/vision/BEHAVEDATA/INTERACTIONS/
+UCF: https://webpages.uncc.edu/cchen62/dataset.html
+
